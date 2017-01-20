@@ -5,6 +5,7 @@ MAINTAINER cubesky
 ADD Server.tar /mcserver
 
 EXPOSE 25565
+EXPOSE 8080
 
 WORKDIR /mcserver/
 VOLUME /mcserver/world
