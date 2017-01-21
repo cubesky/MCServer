@@ -1,0 +1,6 @@
+permissions:
+- worldedit.*
+- nucleus.fly.exempt.*
+- nucleus.fly.base
+groups:
+- players
